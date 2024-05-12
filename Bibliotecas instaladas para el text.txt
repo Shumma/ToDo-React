@@ -1,0 +1,6 @@
+npm install react-modal 
+// Es para el uso de los modal en React.
+// It works.
+
+npm install @headlessui/react
+// Es para los radio button
